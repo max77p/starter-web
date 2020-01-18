@@ -7,7 +7,7 @@ blah blah blah
 ## Deployment
 deployment etc etc
 ## How to contribute
-This is only for testing
+Please fork this repo and then isssue pull requests for review
 
 ### Copyright
 Git.Training 2019
