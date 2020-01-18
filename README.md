@@ -8,3 +8,6 @@ blah blah blah
 deployment etc etc
 ## How to contribute
 This is only for testing
+
+### Copyright
+Git.Training 2019
